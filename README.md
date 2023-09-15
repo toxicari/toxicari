@@ -1,8 +1,8 @@
 - 👋 Oi, eu sou a @toxicari ou apenas Ari
 - 👀 Eu gosto de dançar e ouvir música
 - 🌱 Atualmente eu estou aprendendo sobre programação
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Eu pretendo trabalhar com isso, então é uma aula muito importante para mim.
+- 📫 Como me achar: @http.arisz no instagram.
 
 <!---
 toxicari/toxicari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
