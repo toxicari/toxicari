@@ -11,16 +11,16 @@
 <p><i>Zona Norte</i></p>
 <p><i>Londrina</i></p>
 <p>Olá, me chamo Mariana, meu apelido é Ari, tenho 16 anos e minha cor favorita é amarelo.
-    <strong><b><span style="font-size:20px"><font color="dark yellow">Eu gosto muito de dançar, jogar jogos de lazer,
+    <strong><b><style="font-style:px"><fontcolor="dark yellow">Eu gosto muito de dançar, jogar jogos de lazer,
      pintar e as vezes desenhar(mesmo não sendo muito boa nisso), ouvir música e recentemente descobri um
-     novo hobbie: ler</font></span></b></strong>.
+     novo hobbie: ler</font></style></b></strong>.
      Na verdade, eu já tinha esse costume antes,porém recentemente eu tenho lido com muito mais
      frequência e por muito mais tempo. Atualmente, minha música favorita é "Cry for Love"
      do artista BAEKHYUNG.</p>
 <P>Eu nasci em 2007, no dia 16 de setembro e meu signo é de virgem (mesmo eu não acreditando em signos,
     é legal saber qual é o meu). Eu tenho um irmão exatamente 10 anos mais velho que eu, uma mãe terapeuta
     e um pai encanador. Meu sonho de vida é viajar para diferentes lugares no mundo só para ver o
-    <strong><i><span style="font-size:20px"><font color="orange">pôr do sol</font></span></i></strong>,
+    <strong><i><style="font-style:px"><font color="orange">pôr do sol</font></style></i></strong>,
     pois é uma das coisas que mais me acalma e me deixa feliz na vida.</P>
 <p>Meus artistas favoritos são Bruno Mars, Ariana Grande e Stray Kids, minha matéria favorita na escola é
     matemática e meu livro favorito é “Os Sete Maridos de Evelyn Hugo". Tenho amigos incríveis que me apoiam
