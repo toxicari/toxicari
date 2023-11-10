@@ -16,7 +16,7 @@
      novo hobbie: ler</font></span></b></strong>.
      Na verdade, eu já tinha esse costume antes,porém recentemente eu tenho lido com muito mais
      frequência e por muito mais tempo. Atualmente, minha música favorita é "Cry for Love"
-     do artista BAEKHYUNG.</p>
+     do artista BAEKHYUN.</p>
 <P>Eu nasci em 2007, no dia 16 de setembro e meu signo é de virgem (mesmo eu não acreditando em signos,
     é legal saber qual é o meu). Eu tenho um irmão exatamente 10 anos mais velho que eu, uma mãe terapeuta
     e um pai encanador. Meu sonho de vida é viajar para diferentes lugares no mundo só para ver o
